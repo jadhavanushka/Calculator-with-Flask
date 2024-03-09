@@ -25,3 +25,6 @@ This is a simple web application built with Flask that provides a postfix calcul
 
 5. Open a web browser and go to `http://localhost:5000` to access the calculator.
 
+
+![image](https://github.com/jadhavanushka/Calculator-with-Flask/assets/104165311/9ee87456-a30b-4f57-951b-105fe7fe81c2)
+
